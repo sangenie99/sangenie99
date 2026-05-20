@@ -1,4 +1,4 @@
-# Sangjin Lee
+# Hello!👋,I'm Sangjin Lee
 
 Backend developer focused on building robust backend systems, integrating Generative AI, and facilitating seamless global collaboration.
 
@@ -30,8 +30,8 @@ Backend developer focused on building robust backend systems, integrating Genera
 
 ## Projects
 
-* **[Project Name 1]** - Backend & AI Developer
-* **[Project Name 2]** - Frontend Developer
+* **[The Hungover Game]** - Frontend project
+* **[Project Name 2]** - coming soon☺️
 
 ---
 
