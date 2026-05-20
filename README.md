@@ -42,6 +42,6 @@ Backend developer focused on building robust backend systems, integrating Genera
 
 ## Contact
 
-* **Email**: dltkdwls0905@naver.com
+* **Email**: dltkdwls0905@gmail.com
 * **GitHub**: [github.com/sangenie99](https://github.com/sangenie99)
 * **Blog**: coming soon
