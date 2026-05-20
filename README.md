@@ -1,10 +1,6 @@
 # Hello! 👋 I'm Sangjin Lee
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=39c5bb&height=180&section=header&text=Evolving%20Backend%20Developer&fontSize=38&animation=twinkle" alt="Banner" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=6DB33F&center=true&vCenter=true&width=500&lines=Evolving+Backend+Developer;Always+learning+and+growing" alt="Typing SVG" />
 </p>
 
